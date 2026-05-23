@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/backroad-goodbye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Backroad Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/backroad-goodbye/) |
+| **Get License** | [Get a Licensing Quote for Backroad Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/backroad-goodbye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the moonlight dancing on your skin
+> There is a heaven that we’re driving in
+> Your gentle breathing is a sweet escape
+> I want to memorize your every shape
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
