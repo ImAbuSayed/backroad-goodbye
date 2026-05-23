@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Backroad Goodbye
+
+This log tracks the cryptographic history and versioning for the song **Backroad Goodbye** (backroad-goodbye).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T06:01:35.664497 | `v1` | `527cf8f4bf8279cc0c216b9b5db7f23468340504f5a257536e7f8f7aa5a735ad` | `9c774f4f32476457dee23703ee34d16f4e8d5da53e5c799ac54e2933ab23ae87` | `2026-05-23_backroad-goodbye-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
